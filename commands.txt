@@ -1,0 +1,8 @@
+need on each run: & C:\Emotion-Face-Detection-main\Setup\emotion_env\Scripts\activate.bat
+
+need during installation (1st run)
+1. pip install deepface opencv-python matplotlib pillow numpy pandas tf-keras tensorflow
+2. pip install tf-keras
+>> pip install tensorfl
+
+C:\Users\Mitali Lokakshi\.deepface\weights\facial_expression_model_weights.h5
